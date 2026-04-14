@@ -23,14 +23,14 @@ This project demonstrates bare-metal embedded programming on the LPC1768 microco
 
 ## Project Structure
 
-├── src/
-│ ├── project_main.c
-│ ├── timer.c
-│ └── pwm.c
-├── include/
-│ ├── timer.h
-│ ├── pwm.h
-│ └── bits.h
+├── src/ ```
+│ ├── project_main.c ```
+│ ├── timer.c ```
+│ └── pwm.c ```
+├── include/ ```
+│ ├── timer.h ```
+│ ├── pwm.h ```
+│ └── bits.h ```
 
 
 
