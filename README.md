@@ -22,11 +22,12 @@ This project demonstrates bare-metal embedded programming on the LPC1768 microco
 ---
 
 ## Project Structure
-.
 ├── project_main.c # Main application
-├── timer.c / timer.h # Timer0 driver
-├── pwm.c / pwm.h # PWM driver
-├── bits.h # Bit manipulation macros
+├── timer.c # Timer0 driver implementation
+├── timer.h # Timer0 header file
+├── pwm.c # PWM driver implementation
+├── pwm.h # PWM header file
+└── bits.h # Bit manipulation macros
 
 
 
